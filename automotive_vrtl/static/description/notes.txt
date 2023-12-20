@@ -1,9 +1,8 @@
-odoo-industries / art_craft_vrtl
+odoo-industries / automotive_vrtl
 2023-12-20
 
-
 Odoo SA:
-https://apps.odoo.com/apps/modules/17.0/art_craft/
+https://apps.odoo.com/apps/modules/17.0/automobile/
 
 
 Be aware of these!

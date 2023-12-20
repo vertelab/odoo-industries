@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: The Arts & Craft Shop',
+    'name': 'Industries: The Arts & Craft Shop, Vertel',
     'version': '14.0.0.1.0',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'The Arts & Craft Shop, Vertel',
@@ -28,7 +28,7 @@
     'description': """
     The Arts & Craft Shop, Vertel Style
     
-    We've made a collection of Community Edition modules inspired of Odoo Industries series.
+    Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
     
     """,
     #'sequence': '1'

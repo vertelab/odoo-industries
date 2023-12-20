@@ -1,9 +1,8 @@
-odoo-industries / art_craft_vrtl
+odoo-industries / bar_and_lounge_vrtl
 2023-12-20
 
-
 Odoo SA:
-https://apps.odoo.com/apps/modules/17.0/art_craft/
+https://apps.odoo.com/apps/modules/17.0/bar_and_lounge/
 
 
 Be aware of these!
@@ -15,6 +14,7 @@ Icon:
 Icons may be found at: https://fontawesome.com/v5/cheatsheet
 
 Included in the project is industry icon and swedish flag.
+
 
 
 Odoo banner: 560 x 280
@@ -59,4 +59,5 @@ Find the latest project to copy / paste:
 grep -r "2023-12-*" odoo-*/*/static/description/notes.txt
 grep -r "2023-*" */static/description/notes.txt
 grep -r "2023-12*" /usr/share/odoo*/*/static/description/notes.txt
+
 
