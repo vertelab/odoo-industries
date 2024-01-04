@@ -39,7 +39,17 @@
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
-    'depends': ['account'],
+    'depends': ['knowledge',
+               'website',
+               'mail',
+               'point_of_sale',
+               'sale_management',
+               'stock',
+               'account',
+               'website_sale',
+               'purchase',
+               'mrp',
+               ],
     'data': [
         'data/data.xml'
     ],
