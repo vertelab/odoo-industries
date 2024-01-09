@@ -43,7 +43,7 @@
                'mail',
                'documents',
                'account',
-               'knowledge',
+               #'knowledge',
                'planning',
                'calendar',
                'contacts',
