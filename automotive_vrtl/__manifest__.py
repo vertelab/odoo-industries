@@ -40,7 +40,7 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        'calendar_ce',
+        #'calendar_ce',
         # ~ 'knowledge',
         'web_studio',
         'mail',
@@ -50,9 +50,9 @@
         'stock',
         'account_accountant',
         'purchase',
-        'planning_ce',
+        #'planning_ce',
         'hr',
-            ],
+        ],
     'data': [
         'data/data.xml'
     ],
