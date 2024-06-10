@@ -40,10 +40,10 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        'crm',
+        #'crm',
        # ~ 'knowledge',
-       'sale_management',
-       'calendar',
+       #'sale_management',
+       #'calendar',
        'contacts',
        'mail',
        'website',
