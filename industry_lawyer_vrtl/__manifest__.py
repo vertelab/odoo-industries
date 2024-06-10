@@ -52,8 +52,8 @@
         'account',
          # ~ 'timesheet_grid',
         #'hr_timesheet_sheet',
-        'appointment',
-        'calendar',
+        #'appointment',
+        #'calendar',
         ],
     'data': [
         'data/data.xml'
