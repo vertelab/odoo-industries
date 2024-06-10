@@ -49,7 +49,7 @@
        'documents',
        'hr',
        'project',
-       'sale_management',
+       #'sale_management',
        'account',
        #'website_sale',
        'stock',
