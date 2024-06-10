@@ -44,7 +44,7 @@
         # ~ 'knowledge',
         'mrp',
         'web_studio',
-        'mail',
+        #'mail',
         'stock',
         'hr',
         'point_of_sale',
