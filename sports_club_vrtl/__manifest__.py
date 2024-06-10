@@ -48,7 +48,7 @@
        #'crm',
        #'calendar',
        'mail',
-       #'contact',
+       'contact',
        'website',
        'stock',
        'website_sale',
