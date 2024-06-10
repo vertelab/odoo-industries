@@ -53,7 +53,7 @@
         'website_sale',
         #'website',
         'purchase',
-        'planning_ce',
+        #'planning_ce',
         'project',
         'im_livechat',
         ],
