@@ -42,9 +42,9 @@
     'depends': [
         'mass_mailing',
         # ~ 'knowledge',
-        #'sale_subscription',
-        #'crm',
-        #'website',
+        'sale_subscription',
+        'crm',
+        'website',
         #'calendar',
         #'contacts',
         #'mail',
