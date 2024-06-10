@@ -41,9 +41,9 @@
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
         # ~ 'knowledge',
-        'project',
-        'sale_management',
-        'website',
+        #'project',
+        #'sale_management',
+        #'website',
         'mail',
         # ~ 'documents',
         'dms',
