@@ -35,13 +35,11 @@
     'author': 'Vertel AB',
     'website': 'https://vertel.se/apps/odoo-industries/arts_craft_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
-    #'license': 'AGPL-3',
+    'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [ 
-        # ~ 'knowledge',
-        # ~ 'web_studio',
         'website',
         'mail',
         'crm',
