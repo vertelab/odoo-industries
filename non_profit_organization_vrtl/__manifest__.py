@@ -40,7 +40,7 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        #'mass_mailing',
+        'mass_mailing',
         # ~ 'knowledge',
         #'sale_subscription',
         #'crm',
