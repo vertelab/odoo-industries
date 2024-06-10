@@ -51,7 +51,7 @@
         'hr',
         'account',
          # ~ 'timesheet_grid',
-        'hr_timesheet_sheet',
+        #'hr_timesheet_sheet',
         'appointment',
         'calendar',
         ],
