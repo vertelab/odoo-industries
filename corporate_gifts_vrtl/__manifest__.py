@@ -35,7 +35,7 @@
     'author': 'Vertel AB',
     'website': 'https://vertel.se/apps/odoo-industries/corporate_gifts_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
-    #'license': 'AGPL-3',
+    'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
@@ -54,7 +54,7 @@
        'website_sale',
        'stock',
        'purchase',
-       #'planning_ce',
+       'planning_ce',
        ],
     'data': [
         'data/data.xml'
