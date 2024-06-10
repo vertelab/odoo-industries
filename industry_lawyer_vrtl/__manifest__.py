@@ -47,7 +47,7 @@
         'mail',
         # ~ 'documents',
         #'dms',
-        'planning',
+        #'planning',
         'hr',
         'account',
          # ~ 'timesheet_grid',
