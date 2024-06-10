@@ -43,7 +43,7 @@
         #'website_calendar_ce',
         # ~ 'knowledge',
         'mrp',
-        'web_studio',
+        #'web_studio',
         #'mail',
         'stock',
         'hr',
