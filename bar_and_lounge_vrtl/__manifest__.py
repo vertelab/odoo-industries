@@ -52,10 +52,10 @@
         'sale_management',
         'website_sale',
         'website',
-        #'purchase',
-        #'planning_ce',
-        #'project',
-        #'im_livechat',
+        'purchase',
+        'planning_ce',
+        'project',
+        'im_livechat',
         ],
     'data': [
         'data/data.xml'
