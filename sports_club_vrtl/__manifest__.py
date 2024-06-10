@@ -42,7 +42,7 @@
     'depends': [
        #'knowledge',
        #'planning',
-       'planning_ce',
+       #'planning_ce',
        'point_of_sale',
        'appointment',
        'crm',
