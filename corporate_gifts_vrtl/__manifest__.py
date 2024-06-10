@@ -46,7 +46,7 @@
        'calendar',
        'contacts',
        #'website',
-       'documents',
+       #'documents',
        #'hr',
        #'project',
        #'sale_management',
