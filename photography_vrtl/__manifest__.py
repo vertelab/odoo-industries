@@ -47,8 +47,8 @@
        #'contacts',
        #'mail',
        #'website',
-       'project',
-       'account',
+       #'project',
+       #'account',
        'appointment',
        ],
     'data': [
