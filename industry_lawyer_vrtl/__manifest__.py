@@ -46,7 +46,7 @@
         #'website',
         'mail',
         # ~ 'documents',
-        'dms',
+        #'dms',
         #'planning',
         'hr',
         'account',
