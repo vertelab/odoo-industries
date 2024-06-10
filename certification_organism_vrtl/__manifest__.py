@@ -48,7 +48,7 @@
         'point_of_sale',
         'stock',
         'project',
-        'appointment',
+        #'appointment',
         'calendar',
         ],
     'data': [
