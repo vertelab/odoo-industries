@@ -42,7 +42,7 @@
     'depends': [ 
         # ~ 'knowledge',
         # ~ 'web_studio',
-        'website_',
+        'website',
         'mail',
         'crm',
         'calendar',
