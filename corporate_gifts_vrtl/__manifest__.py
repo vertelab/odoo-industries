@@ -53,7 +53,7 @@
        'account',
        #'website_sale',
        'stock',
-       'purchase',
+       #'purchase',
        #'planning_ce',
        ],
     'data': [
