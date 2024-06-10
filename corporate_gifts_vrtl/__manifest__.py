@@ -50,7 +50,7 @@
        'hr',
        'project',
        #'sale_management',
-       'account',
+       #'account',
        #'website_sale',
        'stock',
        #'purchase',
