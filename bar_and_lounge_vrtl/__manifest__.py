@@ -35,12 +35,12 @@
     'author': 'Vertel AB',
     'website': 'https://vertel.se/apps/odoo-industries/bar_and_lounge_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
-    #'license': 'AGPL-3',
+    'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        #'website_calendar_ce',
+        'website_calendar_ce',
         # ~ 'knowledge',
         'mrp',
         'web_studio',
@@ -53,7 +53,7 @@
         'website_sale',
         'website',
         'purchase',
-        #'planning_ce',
+        'planning_ce',
         'project',
         'im_livechat',
         ],
