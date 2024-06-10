@@ -42,9 +42,9 @@
     'depends': [
         #'website_calendar_ce',
         # ~ 'knowledge',
-        #'mrp',
-        #'web_studio',
-        #'mail',
+        'mrp',
+        'web_studio',
+        'mail',
         #'stock',
         #'hr',
         #'point_of_sale',
