@@ -45,7 +45,7 @@
        'crm',
        'calendar',
        'contacts',
-       'website',
+       #'website',
        'documents',
        #'hr',
        #'project',
