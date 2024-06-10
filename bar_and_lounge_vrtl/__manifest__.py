@@ -51,7 +51,7 @@
         'account',
         'sale_management',
         'website_sale',
-        'website',
+        #'website',
         'purchase',
         'planning_ce',
         'project',
