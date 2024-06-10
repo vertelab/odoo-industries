@@ -51,8 +51,8 @@
         'website_event',
         'website_sale',
         'sale_management',
-        #'account',
-        #'account_accountant',
+        'account',
+        'account_accountant',
         ],
     'data': [
         'data/data.xml'
