@@ -54,7 +54,7 @@
        #'website_sale',
        'stock',
        'purchase',
-       'planning_ce',
+       #'planning_ce',
        ],
     'data': [
         'data/data.xml'
