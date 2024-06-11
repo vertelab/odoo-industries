@@ -49,6 +49,7 @@
         'stock',
         'project',
         #'appointment',
+        'website_calendar_ce',
         'calendar',
         ],
     'data': [
