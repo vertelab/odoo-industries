@@ -53,7 +53,7 @@
          # ~ 'timesheet_grid',
         'hr_timesheet_sheet',
         'website_calendar_ce',
-        'appointment',
+        #'appointment',
         'calendar',
         ],
     'data': [
