@@ -43,7 +43,7 @@
         # ~ 'knowledge',
         'project',
         'sale_management',
-        'website',
+        #'website',
         'mail',
         # ~ 'documents',
         #'dms',
