@@ -44,7 +44,7 @@
         'project',
         'sale_subscription',
         'mail',
-        #'planning_ce',
+        'planning_ce',
         'sale_management',
         'hr',
         'account',
