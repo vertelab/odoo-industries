@@ -47,7 +47,7 @@
        #'appointment',
        'crm',
        'calendar',
-       'mail',
+       #'mail',
        #'contact',
        'website',
        'stock',
