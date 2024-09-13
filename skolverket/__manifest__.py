@@ -29,6 +29,25 @@
     Automotive Spareparts, Vertel Style
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
+
+    Dependencies origin från Odoo SA, Vertel, OCA.
+    https://github.com/OCA/account-financial-tools
+    https://github.com/OCA/knowledge
+    https://github.com/OCA/helpdesk
+    https://github.com/OCA/hr
+    https://github.com/OCA/server-ux
+    https://github.com/OCA/server-backend
+    https://github.com/OCA/reporting-engine
+
+
+
+    https://github.com/vertelab/odoo-account/
+    https://github.com/vertelab/odoo-user-mail/
+    https://github.com/vertelab/odoo-user-mail/
+    https://github.com/vertelab/odoo-helpdesk/
+User Password Strength	user_password_strength	Odoo S.A.	https://cybrosys.com/
+
+
     
     """,
     #'sequence': '1'
