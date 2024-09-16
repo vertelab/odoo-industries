@@ -39,13 +39,8 @@
     https://github.com/OCA/server-backend
     https://github.com/OCA/reporting-engine
 
-
-
     https://github.com/vertelab/odoo-account/
     https://github.com/vertelab/odoo-user-mail/
-    https://github.com/vertelab/odoo-user-mail/
-    https://github.com/vertelab/odoo-helpdesk/
-User Password Strength	user_password_strength	Odoo S.A.	https://cybrosys.com/
 
 
     
