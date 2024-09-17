@@ -11,10 +11,8 @@ Be aware of these!
 [project]/[module]/static/description/icon.png
 
 
-Icon:
-Icons may be found at: https://fontawesome.com/v5/cheatsheet
-
-Included in the project is industry icon and swedish flag.
+Icon: Industry
+https://fontawesome.com/v4/icon/industry
 
 
 Odoo banner: 560 x 280
