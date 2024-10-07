@@ -20,17 +20,17 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Industries, Vertel',
+    'name': 'Industries: ITSM, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
-    'summary': 'Automotive Spareparts, Vertel',
+    'summary': 'IT System Management, Vertel',
     'category': 'Industries',
     'description': """
-    Automotive Spareparts, Vertel Style
-    
-    Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
 
-    Dependencies origin från Odoo SA, Vertel, OCA.
+
+
+    
+    Dependencies origin från Vertel and OCA.
     https://github.com/OCA/account-financial-tools
     https://github.com/OCA/knowledge
     https://github.com/OCA/helpdesk
@@ -47,7 +47,7 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/skolverket',
+    'website': 'https://vertel.se/apps/odoo-industries/industries_itsm',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
