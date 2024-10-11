@@ -120,7 +120,7 @@
     'hr_personal_equipment_stock',
     'iap',
     'iap_mail',
-    'inventory_barcode_scanning',
+   ### 'inventory_barcode_scanning',
     'knowledge_forum_website',
     'l10n_se',
     #'letsencrypt',
