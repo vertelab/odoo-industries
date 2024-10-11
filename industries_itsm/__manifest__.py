@@ -170,7 +170,7 @@
     'gamification',
     'website_forum',
     'portal',
-    s'http_routing',
+    #'http_routing',
     'phone_validation',
     ],
     'data': [
