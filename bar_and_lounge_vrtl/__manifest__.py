@@ -40,7 +40,7 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        'website_calendar_ce',
+        # 2024-10-15 'website_calendar_ce',
         # ~ 'knowledge',
         'mrp',
         #'web_studio',
@@ -53,7 +53,7 @@
         'website_sale',
         'website',
         'purchase',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'project',
         'im_livechat',
         ],
