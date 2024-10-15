@@ -49,7 +49,7 @@
         'sale_management',
         'point_of_sale',
         'purchase',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'hr',
         'project',
         ],
