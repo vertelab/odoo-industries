@@ -44,7 +44,7 @@
         'project',
         'sale_subscription',
         'mail',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'sale_management',
         'hr',
         'account',
