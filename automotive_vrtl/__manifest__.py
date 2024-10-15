@@ -48,7 +48,7 @@
         'stock',
         #'account_accountant',
         'purchase',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'hr',
         ],
     'data': [
