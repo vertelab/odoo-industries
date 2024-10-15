@@ -55,7 +55,7 @@
         'website_sale',
         'stock',
         'purchase',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
        ],
     'data': [
         'data/data.xml'
