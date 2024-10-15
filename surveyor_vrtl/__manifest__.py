@@ -46,7 +46,7 @@
         'account',
         #'knowledge',
         #'planning',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'calendar',
         'contacts',
         'hr',
