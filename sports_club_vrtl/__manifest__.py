@@ -48,7 +48,7 @@
        'crm',
        'calendar',
        'mail',
-       'contact',
+       # 2024-10-15 'contact',
        #'website',
        'stock',
        #'website_sale',
