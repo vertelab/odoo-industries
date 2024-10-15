@@ -48,7 +48,7 @@
         # ~ 'documents',
         #'dms',
         #'planning',
-        'planning_ce',
+        # 2024-10-15 'planning_ce',
         'hr',
         'account',
          # ~ 'timesheet_grid',
