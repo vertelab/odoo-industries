@@ -49,7 +49,7 @@
         'stock',
         'project',
         #'appointment',
-        'website_calendar_ce',
+        # 2024-10-15 'website_calendar_ce',
         'calendar',
         ],
     'data': [
