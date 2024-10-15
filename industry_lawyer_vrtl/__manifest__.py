@@ -52,7 +52,7 @@
         'hr',
         'account',
          # ~ 'timesheet_grid',
-        'hr_timesheet_sheet',
+        # 2024-10-15 'hr_timesheet_sheet',
         'website_calendar_ce',
         #'appointment',
         'calendar',
