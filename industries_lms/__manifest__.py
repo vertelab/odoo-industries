@@ -23,7 +23,7 @@
     'name': 'Industries: LMS, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
-    'summary': 'IT System Management, Vertel',
+    'summary': 'Learning Management System, Vertel',
     'category': 'Industries',
     'description': """
     
