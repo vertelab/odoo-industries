@@ -8,7 +8,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="icon_140x140.svg"
-   inkscape:export-filename="/home/jakob/Dokument/Odoo16/odoo-industries/skolverket/static/description/icon.png"
+   inkscape:export-filename="/home/jakobk/Documents/2024-10/odoo16/odoo-industries/industries_itsm/static/description/icon.png"
    inkscape:export-xdpi="92"
    inkscape:export-ydpi="92"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -48,15 +48,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="10"
+     inkscape:cx="9"
      inkscape:cy="142.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1871"
-     inkscape:window-height="962"
-     inkscape:window-x="49"
-     inkscape:window-y="90"
+     inkscape:window-width="1551"
+     inkscape:window-height="752"
+     inkscape:window-x="177"
+     inkscape:window-y="127"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="0" />
   <metadata
@@ -87,54 +87,40 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8514px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="70.13604"
-       y="90.488388"
+       y="86.488388"
        id="text2035"
        inkscape:export-xdpi="92"
        inkscape:export-ydpi="92"><tspan
          sodipodi:role="line"
          x="70.13604"
-         y="90.488388"
+         y="86.488388"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6249px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         id="tspan3051">Skolverket</tspan></text>
+         id="tspan3051">Industries</tspan><tspan
+         sodipodi:role="line"
+         x="70.13604"
+         y="107.11541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6249px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
+         id="tspan978">ITSM</tspan></text>
     <image
-       width="31.175476"
-       height="33.046001"
+       width="33.03186"
+       height="32.371223"
        preserveAspectRatio="none"
-       style="stroke-width:1.60382;image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA1CAYAAAADOrgJAAAABHNCSVQICAgIfAhkiAAABoFJREFU
-aIHtmU8sK1scx4+pqlYbkippCEWIskFEIogQVhLE/wQrEguLIoiIEBtbfxaILSsJ8Sd4hNzX1vM/
-lzbKc99S9A+l8/RWOq2Z8xZXb65qz8xUy1vcz66d8/v+vt9pZ+acMwD8Bo1QKBQODg4O7u7u/rW3
-t7c3NDQ0JBQKhZ/tixUikUh0eXn5N3Tj6urqKjw8PPyz/TFmampqyj2Ei4mJiYnP9scYvV6v9xbk
-9vb29rP9McZms9m8BSEIgghETywQop/B7yD/NxgHkUgkkpmZmRmLxWIhCIJYXV1dzc3NzfWXkZyc
-nJzV1dVVgiAIHMfxmZmZmejo6Gh/6QMAAMjPz883mUy37heu3W4nsrKystzHs73YMzMzM+12O+E+
-1mw2mwsLCwv9EqKurq6OIIg3TVxsbm5uvjfIxsbGH97GOxwOR319ff27QjQ0NDQ4HA6HtyYvxhwR
-ERERvgYRCoVCJj2ampqafApRXFxcTNcAQgitVut3kUgk8jWIQCAQWK3W73R9nE6ns7S0tJRViPj4
-+HiLxWKhE4cQwuXl5RX3erZ/raWlpWUmvXAcx2UymYxRCAzDsC9fvvzJRNhsNptTUlJS3hskOTk5
-2dPNxBNKpVIZHBwcTBukra2tjYng+fn5eUxMTIwnDV+mKFKpVKrVarVMere3t7cjQwiFQuHd3d0d
-ndDi4uJiaGhoqDcdX+daPB6Pt7CwsEDX//7+/h65HOjt7e2lE/n69eupWCwWo07IeyaNYrFYfHJy
-ckLno7+/v9+jAJfL5d7f39+jig0GgzExMTERZeS9QQAAQCaTyQwGgwHlxWKxWEJCQkLeFDc1NTWh
-CkmSpFpbW1vpTPgjCAAAtLS0tKD8QAhhc3Nz85vCtbW1NVTR6enpKYfD4XxUEA6Hwzk+Pj5GeVpf
-X19/VRQSEhKC4zjurYCiKIrNk9VfC6v6+vp6VBAcx3E+n8//WZCXl5eHKri7u7tD3aUCFYTH4/GM
-RqMR5c01qcQAACA7OzsbJbizs7Njt9vtTA34C4IgiO3t7W3UGJd3DAAA0tLS0lCD1Wq1mo2B6+vr
-a1+OeUKlUqlQx9PS0tIBeAkSGRkp8TYQQggvLi4u2DQfHR0dhRBC9+8pioJjY2NjbLToekskksif
-H46Pj70+gCiKopg8O9wZGxsbI0mSdOmQJEmOj4+Ps9WJi4uLQ10jZ2dnZwAAQDv58nBiGdHR0dEx
-Nzc3V1lZWRkUFBS0vLy8fHR0dOSTGAPoZ5Hv4OSFQPZwnWgMAACMRqPB20AMw4KSkpKSAmkGBd3f
-2mg0GgF4CaLX6/WowYwXMwEgISEhAXXc5R0DAACtVqtFDS4oKCjwnzV20PXWarWanx+KioqKUHeG
-m5sbfVhYWFjAXbvB5/P5dDPyV+t4DofDsdlsT6iCioqKio8OUlZWVoby9PT09MTj8XivipaWlpZQ
-RUqlUvnRQba3t3dQnlZWVt5sfICampoaVBGEEFZXV1d/VIjGxsZGOj+1tbW1bwoFAoHg5ubG6wsa
-CCE0mUwmqVQqDXSI6OjoaJPJZEJ5MRgMRq/X7fDw8DDdWdjc3Nz0uMT0EwKBQLC+vr5O52NkZGTE
-q4hYLBY/Pj4+0olMTExMYBjm91cSGIZhqPePLh4eHh6ioqKikGKdnZ2ddEIQQri1tbXlvlX6HsLC
-wsI2NjY2mPTu6OjooBXkcrnc/f39AyaC3759+4f1fqwHSkpKSq6urq6Y9Dw8PDx8c8v1hlwul1ss
-Fq9r+F95fn4mZ2dnZzMzMzPZBsjIyMiYn5+ff35+Juk7QYjj+L90i8A3lJeXlzMRd0GSJHlwcHDQ
-29vbm5qamupNNyUlJaWnp6dnf39//9f1ChOqqqqq2J4sAAAA3d3d3RRFUWyaQfhjMeZ0Op06nU53
-9ML5+fm50+l0kiTpk15fX1+fTyFcdHZ2djL96QMBSZJkV1dX17tCuKitra21Wq3Wjw5hs9lsDQ0N
-DX4J4UIul8s1Go3mIwKQJElpNBpNenp6ul9DuODz+fyBgYEBJg9NX7FardahoaGhVzuIgUImk8km
-JycnUdusbCBJksJxHJ+enp6mWxEGhPDw8HCFQqFQqVQqp9P57EMAUq1WqxUKhcL9zTBbgvwVKjY2
-NragoKAgPz8/Xy6XyyUSiUQul6dxOBwMgB8bfTqdTmc2m82Xl5eXu7u7u2q1Ws1259EbfgviCfdZ
-ssPhcASq138U03UpRVsNIQAAAABJRU5ErkJggg==
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAn5JREFU
+aIHtmr2L4kAYh9+Yi0EMCGKRQtQtbMRgkUYCMY0YOMHqUlha2ORqz1KwFwsRuzSSg+RQsLXYwz2x
+1MO1E0nnH2DjHha5SthdjsWMX8MxTxWSvG9+T2aKmRCA/wTqeCDLslwoFAqnFG02m41lWdZ+v99f
+LxoCkiRJrkfa7Xb73rlf4wMAUBRF8VqIUnNNfAAAfr/f77UQpeaa+O4d4FIQEdwgIrhBRHCDiODG
+zUUoiqJUVVWj0WgUtUc4HA6rqqoGg8HgmwuNRqPhddG4Wq1WXgNwHMeNRqOR67ruy8vLH0EQBK89
+RFEUHcdxXNd1l8vl8nj+ZiOSTqfT8/l8XiqVSgAALMv6T902HKlUKpXZbDZLJBIJAABBEIRYLBYD
+uJGIpmna09PTr2QymXx9nuM47pR6mqbpXq/XMwzDeL9YPfb4dLm4/w7QbDabtVrtG8MwSM/ieZ63
+LMvK5XK5j+67mkgoFAqZpvm9WCx+Ru0hSZJkmqZ5nEofcZWplclkMovF4vc5Erqu64+Pjz9PkQC4
+gki5XC5Pp9Ppw8PDSQHewzAMYxiG0e12uyzLnrx5u9jUYhiGabVaLV3Xv9I0jfSC4vF4fDAYDERR
+FL3WXkQkEolEhsPhUJZlGbVHPp/P9/v9Ps/zPEr92VMrm81mn5+fV+dI1Ov1+ng8HqNKAJwxIhRF
+UdVqtdrpdDosy7IoPQKBQMC27R+apn1BzfEGlCUKLqRSqRQAWf3iBxHBDSKCG0QEN4gIbhAR3CAi
+uEFEcIOI4IYPAOBwOBzuHQSVY3YfAMBkMpncNw4a2+12u16v1wCv/g5SFEXx+pn/nux2u51t27bj
+OM69s1yUv18+xgU+gci4AAAAAElFTkSuQmCC
 "
-       id="image2433"
-       x="5"
-       y="7.5" />
+       id="image23"
+       x="6.4266052"
+       y="8.166666" />
   </g>
 </svg>

@@ -9,7 +9,7 @@
    id="SVGRoot"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="banner_560x280.svg"
-   inkscape:export-filename="/home/jakob/Dokument/Odoo16/odoo-industries/skolverket/static/description/banner.png"
+   inkscape:export-filename="/home/jakobk/Documents/2024-10/odoo16/odoo-industries/industries_itsm/static/description/banner.png"
    inkscape:export-xdpi="92.61972"
    inkscape:export-ydpi="92.61972"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -56,15 +56,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="164"
-     inkscape:cy="105"
+     inkscape:cx="285"
+     inkscape:cy="113"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1625"
-     inkscape:window-height="773"
-     inkscape:window-x="39"
-     inkscape:window-y="307"
+     inkscape:window-height="875"
+     inkscape:window-x="95"
+     inkscape:window-y="80"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -161,7 +161,7 @@
          x="518.73328"
          y="73.199997"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:1px"
-         id="tspan33951">Skolverket</tspan></text>
+         id="tspan33951">Industries ITSM</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot844"
@@ -174,50 +174,25 @@
            y="-32" /></flowRegion><flowPara
          id="flowPara850" /></flowRoot>
     <image
-       width="30.405334"
-       height="32.229656"
+       width="31.983032"
+       height="26.953247"
        preserveAspectRatio="none"
-       style="stroke-width:1.64445;image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,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
-YII=
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAolJREFU
+aIHtmr1r1VAYh9/3nJPknHzc3Jub5MRbPzqL2qEOUqhdxIJDJx0cOwiik4vdXZzEQRe7SoX6Rf8F
+HRxdOooI0nayiNJL9X7Fwba0gjU5997eg5xnCkl+b34PCSEJAfhPwN0Fwfk0F+JykVCn0/m4tdVc
+zvPe9vCqlYMBAAjOp441Gm/LBG3bmdjc/HJnOLXKQwAAaoLPlA1yUSudGSYEAIAg2mWDiLR0ZpiQ
+URcYFEZEN4yIbhgR3TAiujEKEfQ9b5Yxdlx1AKM08jx3Fgnx9tYNplsxCCF+lqZL3HXn8jxvra9v
+nG+1fq6WmcEdZ1JK+ZIyNt5qdVbX1j6fAzjCM8Id+8yJsbH33HXnAAAQ0RZutdBrwy7VSjDfaDTe
+UcbGAQBsm51lln8S4IjOSMX3rkVxskgIqe5fT4jlFxxBZRI/9oLKzT837M4YqggC0CiK7lXC8C4i
+Kh2LUZqlUi5zzi8eup9axX9DCAllmj4TrntFdYbgfCpJ0yW2cykdxlBEHNueyLJshRYo8DfCSuVW
+VK8/xILvSgMXCXz/ej2OFwkhRa//AyCilcTxEz8I5svkBiaCiFYcRQ+CMLwNindDi7FTUspXtuNM
+ls0ORIRSGmdSvnY4n1ad4QpxKUnTp5TSTCXft4jgzgUpsxVCqVSdUatWF2pRdB/2fZ4qSx8iOYZB
+cCOK40eI6KhMQESRSfnC9byr6j1+oyxiW+3T9SRZ7Ofg1dBaALD6GbGHefrVDSOiG0ZEN4yIbhgR
+3TAiumFEdMOI6IYR0Q0CANDL8/aoi6iS5702wI7I1+0fb0ZbR41ut7vRbn37AHDw76AZ4bqlPvOP
+kl6v932r2Xzeabc/jbrLQPkFqUNn56+Px9wAAAAASUVORK5CYII=
 "
-       id="image2565"
-       x="287"
-       y="122.5" />
+       id="image119"
+       x="282.00848"
+       y="128.52338" />
   </g>
 </svg>

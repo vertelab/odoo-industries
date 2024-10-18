@@ -1,18 +1,16 @@
 odoo-industries / industries_lms
-2024-10-17
-
+2024-10-18
 
 Be aware of these!
 [project]/[module]/static/description/banner.png
 [project]/[module]/static/description/icon.png
 
 
-Icon: Power Off (enbclosed)
-https://fontawesome.com/v4/icon/power-off
-https://fontawesome.com/icons/power-off?s=solid
-icon_power-off.png
-icon_power-off_50.png
-icon_power-off_50_neg.png
+Icon: fa-industry (enclosed)
+https://fontawesome.com/v4/icon/industry
+icon_industry.png
+icon_industry_50.png
+icon_industry_50_neg.png
 
 
 Odoo banner: 560 x 280
