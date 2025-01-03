@@ -1,5 +1,5 @@
 odoo-industries / art_craft_vrtl
-2023-12-20
+2025-01-02
 
 
 Odoo SA:
@@ -12,10 +12,9 @@ Be aware of these!
 
 
 Icon:
-Icons may be found at: https://fontawesome.com/v5/cheatsheet
-
-Included in the project is industry icon and swedish flag.
-
+icon_industry.png
+icon_industry_50.png
+icon_industry_50_neg.png
 
 Odoo banner: 560 x 280
 Odoo icon: 140 x 140
