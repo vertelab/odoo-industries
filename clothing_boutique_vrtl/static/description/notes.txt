@@ -1,5 +1,5 @@
 odoo-industries / clothing_boutique_vrtl
-2023-12-20
+2025-01-03
 
 
 Odoo SA:
