@@ -33,7 +33,7 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/l10n_se_payroll',
+    'website': 'https://vertel.se/apps/odoo-industries/surveyor_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
