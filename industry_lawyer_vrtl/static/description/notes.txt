@@ -1,22 +1,18 @@
 odoo-industries / industry_lawyer_vrtl
-2023-12-20
-
+2025-01-15
 
 Odoo SA:
-https://apps.odoo.com/apps/modules/17.0/industry_lawyer/
-
+https://apps.odoo.com/apps/modules/17.0/art_craft/
 
 Be aware of these!
 [project]/[module]/static/description/banner.png
 [project]/[module]/static/description/icon.png
 
-
-Icon:
-Icons may be found at: https://fontawesome.com/v5/cheatsheet
-
-Included in the project is industry icon and swedish flag.
-
-
+Icon: Industry
+https://fontawesome.com/v4/icon/industry
+icon_industry.png
+icon_industry_50.png
+icon_industry_50_neg.png
 
 Odoo banner: 560 x 280
 Odoo icon: 140 x 140
@@ -57,6 +53,12 @@ ls | wc -l
 grep -sR "'website':" */*__.py | tr "'" " "
 
 Find the latest project to copy / paste:
-grep -r "2023-12-*" odoo-*/*/static/description/notes.txt
-grep -r "2023-*" */static/description/notes.txt
-grep -r "2023-12*" /usr/share/odoo*/*/static/description/notes.txt
+grep -r "2025-01-*" odoo-*/*/static/description/notes.txt
+grep -r "2025-*" */static/description/notes.txt
+grep -r "2025-01*" /usr/share/odoo*/*/static/description/notes.txt
+
+Unexpected errors sometimes occurs, then set the correct permissions!
+sudo chmod 664 /usr/share/*/*/static/description/banner.png
+sudo chmod 664 /usr/share/*/*/static/description/icon.png
+
+
