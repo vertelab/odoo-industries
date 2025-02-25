@@ -41,6 +41,7 @@
 
     https://github.com/vertelab/odoo-account/
     https://github.com/vertelab/odoo-user-mail/
+    https://github.com/vertelab/odoo-base
 
 
     
