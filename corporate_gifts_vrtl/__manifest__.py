@@ -58,7 +58,7 @@
         # 2024-10-15 'planning_ce',
        ],
     'data': [
-        'data/data.xml'
+#        'data/data.xml'
     ],
     'installable': 'True',
 }
