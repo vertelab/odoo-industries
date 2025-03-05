@@ -46,7 +46,7 @@
        # 'point_of_sale',
         ],
     'data': [
-        'data/data.xml'
+#        'data/data.xml'
     ],
     'installable': 'True',
 }
