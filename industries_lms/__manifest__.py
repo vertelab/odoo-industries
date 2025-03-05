@@ -30,7 +30,7 @@
 
 
     
-    Dependencies origin från Vertel and OCA.
+    Dependencies origin from OCA.
     https://github.com/OCA/account-financial-tools
     https://github.com/OCA/knowledge
     https://github.com/OCA/helpdesk
@@ -39,6 +39,7 @@
     https://github.com/OCA/server-backend
     https://github.com/OCA/reporting-engine
 
+    Dependencies origin from Vertel.
     https://github.com/vertelab/odoo-account/
     https://github.com/vertelab/odoo-user-mail/
 
