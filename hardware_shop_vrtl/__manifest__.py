@@ -54,7 +54,7 @@
         'project',
         ],
     'data': [
-        'data/data.xml'
+#        'data/data.xml'
     ],
     'installable': 'True',
 }
