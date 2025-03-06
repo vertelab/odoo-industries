@@ -1,1 +1,2 @@
 git@github.com:OCA/knowledge.git /usr/share/odooext-OCA-knowledge
+git@github.com:vertelab/odoo-planning.git /usr/share/odoo-planning
