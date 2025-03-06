@@ -58,7 +58,7 @@
         'im_livechat',
         ],
     'data': [
-        'data/data.xml'
+        #'data/data.xml'
     ],
     'installable': 'True',
 }
