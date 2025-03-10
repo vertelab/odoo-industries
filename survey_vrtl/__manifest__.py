@@ -20,39 +20,40 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Survey, Vertel',
-    'version': '1.0.0',
+    'name': 'Industries: Surveyor, Vertel',
+    'version': '1.0.1',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
-    'summary': 'The Arts & Craft Shop, Vertel',
+    'summary': 'Surveyor, Vertel',
     'category': 'Industries',
     'description': """
-    Survey, Vertel style
+    Surveyor, Vertel Style
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
     
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/survey_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industries/surveyor_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
-    'depends': [ 
-       # 'website',
-       # 'mail',
-       # 'crm',
-       # 'calendar',
-       # 'contacts',
-       # 'website_sale',
-       # 'account',
-       # 'stock',
-       # 'hr',
-       # 'point_of_sale',
-       # 'sale_management',
-       # 'purchase',
-        ],
+    'depends': ['crm',
+        'mail',
+        # ~'documents',
+        #'drm',
+        'account',
+        #'knowledge',
+        #'planning',
+        'planning_ce',
+        'calendar',
+        'contacts',
+        'hr',
+        'sale_management',
+        'project',
+        'website',
+       ],
     'data': [
 #        'data/data.xml'
     ],
