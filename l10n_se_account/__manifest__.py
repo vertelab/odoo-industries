@@ -29,7 +29,6 @@
     l10n_se_account, Vertel Style
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
-    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
@@ -40,7 +39,17 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        'account'
+        'account
+        'l10n_se_extended',
+        'l10n_se_mis',
+        'l10n_se_tax_report',
+        'account_period_vrtl',
+        'account_statement_import_camt54',
+        'account_reconcile_oca',
+        #'account_banking_sepa_direct_debit', Waiting for 18 version
+        #'account_banking_sepa_credit_transfer', Waiting for 18 version
+        #'account_payment_order', Waiting for 18 version
+        
         ],
     'data': [
 #        'data/data.xml'
@@ -48,3 +57,7 @@
     'installable': 'True',
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
+##https://github.com/OCA/bank-statement-import
+##https://github.com/vertelab/odoo-l10n_se
+##https://github.com/vertelab/odoo-account
+##https://github.com/OCA/bank-payment
