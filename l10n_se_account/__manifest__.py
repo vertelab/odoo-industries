@@ -39,7 +39,7 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
-        'account
+        'account',
         'l10n_se_extended',
         'l10n_se_mis',
         'l10n_se_tax_report',
