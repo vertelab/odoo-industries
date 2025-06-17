@@ -27,6 +27,15 @@
     'category': 'Industries',
     'description': """
 
+
+    This time includes includes the projects...
+    git@github.com:vertelab/odoo-ai.git
+    git@github.com:vertelab/odoo-l10n_se.git
+    git@github.com:vertelab/odoo-user-mail.git
+    git@github.com:vertelab/odoo-contract.git
+    git@github.com:vertelab/odoo-management-system.git
+    git@github.com:vertelab/odoo-survey.git
+
    
     """,
     #'sequence': '1'
