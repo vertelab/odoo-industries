@@ -34,7 +34,7 @@
     git@github.com:OCA/project.git
     git@github.com:vertelab/odoo-resource.git
     git@github.com:vertelab/odoo-cpntract.git
-
+    $ sudo pip3 install phonenumbers
    
     """,
     #'sequence': '1'
