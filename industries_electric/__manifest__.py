@@ -28,8 +28,11 @@
     'description': """
 
 
-    This time includes includes the projects...
+    This time includes includes the following projects...
     git@github.com:vertelab/odoo-contract.git
+    git@github.com:OCA/contract.git
+    git@github.com:vertelab/odoo-resource.git
+    git@github.com:vertelab/odoo-cpntract.git
 
    
     """,
@@ -42,9 +45,12 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industries',
     'depends': [
+    'resource_planning',
     'contract_aaw',
+##    'sale', för faturering, vilken modul!?
     'contract_invoicingplan',
     'product_contract',
+    'mis',
     ],
     'data': [
         #'data/data.xml'
