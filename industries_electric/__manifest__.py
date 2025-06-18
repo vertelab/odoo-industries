@@ -31,6 +31,7 @@
     This time includes includes the following projects...
     git@github.com:vertelab/odoo-contract.git
     git@github.com:OCA/contract.git
+    git@github.com:OCA/project.git
     git@github.com:vertelab/odoo-resource.git
     git@github.com:vertelab/odoo-cpntract.git
 
