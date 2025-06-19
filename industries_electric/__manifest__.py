@@ -48,11 +48,12 @@
     'depends': [
     'resource_planning',
     'contract_aaw',
-##    'sale', för faturering, vilken modul!?
+    'sale',
     'contract_invoicingplan',
     'product_contract',
-    'mis_builder',
-    'mis_builder_budget',
+    'project',
+  #  'mis_builder',
+  #  'mis_builder_budget',
     ],
     'data': [
         #'data/data.xml'
