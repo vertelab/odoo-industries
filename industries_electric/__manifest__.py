@@ -48,7 +48,7 @@
     'depends': [
     'resource_planning',
     'contract_aaw',
-    'sale',
+    'sale_management',
     'contract_invoicingplan',
     'product_contract',
     'project',
