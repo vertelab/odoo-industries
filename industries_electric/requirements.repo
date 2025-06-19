@@ -2,3 +2,4 @@ git@github.com:vertelab/odoo-contract.git /usr/share/odoo-contract
 git@github.com:OCA/contract.git /usr/share/odooext-OCA-contract
 git@github.com:OCA/project.git /usr/share/odooext-OCA-project
 git@github.com:vertelab/odoo-resource.git /usr/share/odoo-resource
+git@github.com:OCA/mis-builder.git /usr/share/odooext-OCA-mis-builder
