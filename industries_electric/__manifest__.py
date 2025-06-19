@@ -51,7 +51,8 @@
 ##    'sale', för faturering, vilken modul!?
     'contract_invoicingplan',
     'product_contract',
-    'mis',
+    'mis_builder',
+    'mis_builder_budget',
     ],
     'data': [
         #'data/data.xml'
