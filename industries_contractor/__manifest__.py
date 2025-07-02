@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Electric, Vertel',
+    'name': 'Industries: Contractor, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'IT System Management, Vertel',
@@ -39,7 +39,7 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/industries_electric',
+    'website': 'https://vertel.se/apps/odoo-industries/industries_contractor',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
@@ -49,7 +49,7 @@
     'sale_management',
     'project',
     'contract_aaw',
-    'resource_planning',
+ #   'resource_planning',
     'contract_invoicingplan',
     'product_contract',
   #  'mis_builder',

@@ -1,2 +1,4 @@
 git@github.com:OCA/knowledge.git /usr/share/odooext-OCA-knowledge
+git@github.com:OCA/server-ux.git /usr/share/odooext-OCA-server-ux
 git@github.com:vertelab/odoo-planning.git /usr/share/odoo-planning
+git@github.com:vertelab/odoo-calendar.git /usr/share/odoo-calendar
