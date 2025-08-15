@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: LMS, Vertel',
+    'name': 'Industry-vrtl: LMS, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'Learning Management System, Vertel',
@@ -38,12 +38,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/industries_lms',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industries_lms',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
         'event_waitlist_website',
         'website_event_portal',
@@ -55,4 +55,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

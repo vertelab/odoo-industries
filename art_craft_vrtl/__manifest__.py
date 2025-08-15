@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: The Arts & Craft Shop, Vertel',
+    'name': 'Industry-Vrtl: The Arts & Craft Shop, Vertel',
     'version': '1.0.0',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'The Arts & Craft Shop, Vertel',
@@ -33,12 +33,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/arts_craft_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/arts_craft_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [ 
         'website',
         'mail',
@@ -58,4 +58,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

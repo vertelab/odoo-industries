@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Contractor, Vertel',
+    'name': 'Industry-vrtl: Contractor, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'IT System Management, Vertel',
@@ -39,12 +39,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/industries_contractor',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industries_contractor',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
     'sale_management',
     'project',
@@ -60,4 +60,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

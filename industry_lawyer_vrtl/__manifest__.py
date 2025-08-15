@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Industry Lawyer, Vertel',
+    'name': 'Industry: Industry Lawyer, Vertel',
     'version': '1.0.0',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'Industry Lawyer, Vertel',
@@ -33,12 +33,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/industry_lawyer_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industry_lawyer_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
         # ~ 'knowledge',
         'project',
