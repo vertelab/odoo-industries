@@ -30,6 +30,11 @@
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
     
+    
+    requirements.repo
+    git@github.com:vertelab/odoo-calendar.git /usr/share/odoo-calendar
+    git@github.com:vertelab/odoo-planning.git /usr/share/odoo-planning
+    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
@@ -56,4 +61,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

@@ -30,6 +30,13 @@
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
     
+    
+    External dependency
+    https://pypi.org/project/pandas/
+    pip install pandas
+    
+    sudo apt install python3-pandas
+    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
@@ -57,4 +64,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

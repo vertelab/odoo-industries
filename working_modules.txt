@@ -1,0 +1,28 @@
+1. art_craft_vrtl = OK!
+2. automotive_vrtl
+Du försöker installera modulen "automotive_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+3. bar_and_lounge_vrtl
+Du försöker installera modulen "bar_and_lounge_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+
+4. cake_shop_vrtl = OK!
+5. certification_organism_vrtl = OK!
+6. clothing_boutique_vrtl = OK!
+7. corporate_gifts_vrtl
+Du försöker installera modulen "corporate_gifts_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+8. hair_salon_vrtl = "slug" är flyttat eller finns inte längre
+9. hardware_shop_vrtl
+Du försöker installera modulen "hardware_shop_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+10. industries_contractor = installationen av pandas fungerar inte.
+
+11. industries_csrd = OK!
+12. industries_itsm
+Du försöker installera modulen "industries_itsm" som är beroende av modulen "purchase_price_diff".
+Men den senare modulen är inte tillgänglig i ditt system.
