@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Real Estate Agency, Vertel',
+    'name': 'Industry-vrtl: Real Estate Agency, Vertel',
     'version': '1.0.1',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'Real Estate Agency, Vertel',
@@ -33,12 +33,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/industry_real_estate_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industry_real_estate_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
         # ~ 'knowledge',
         'sale_subscription',
@@ -56,4 +56,3 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

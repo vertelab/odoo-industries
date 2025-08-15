@@ -20,7 +20,7 @@
 ##############################################################################
 
 {
-    'name': 'Industries: Nonprofit Organization, Vertel',
+    'name': 'Industry-vrtl: Nonprofit Organization, Vertel',
     'version': '1.0.0',
     # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
     'summary': 'Nonprofit Organization, Vertel',
@@ -33,12 +33,12 @@
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industries/non_profit_organization_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/non_profit_organization_vrtl',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industries',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
         'mass_mailing',
         # ~ 'knowledge',
@@ -59,4 +59,4 @@
     ],
     'installable': 'True',
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
+
