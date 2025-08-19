@@ -29,6 +29,12 @@
     l10n_se_account, Vertel Style
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
+    
+    
+    odoo-l10n_se
+    git@github.com:OCA/bank-statement-import.git
+
+    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',

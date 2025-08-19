@@ -30,6 +30,13 @@
     
     Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
     
+    
+    odoo-account
+    git@github.com:OCA/account-financial-reporting.git
+    git@github.com:OCA/account-reconcile.git
+    git@github.com:OCA/bank-payment.git
+    git@github.com:OCA/reporting-engine.git
+    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
@@ -48,7 +55,7 @@
         'mail',
         'website',
         'account',
-        'account_accountant',
+        'account_accountant_ce',
         'sale_management',
         ],
     'data': [

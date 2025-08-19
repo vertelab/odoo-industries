@@ -3,6 +3,10 @@
 Du försöker installera modulen "automotive_vrtl" som är beroende av modulen "planning_ce".
 Men den senare modulen är inte tillgänglig i ditt system.
 
+odoo-planning
+https://github.com/vertelab/odoo-planning/tree/18.0
+Finns inte för odoo 18
+
 3. bar_and_lounge_vrtl
 Du försöker installera modulen "bar_and_lounge_vrtl" som är beroende av modulen "planning_ce".
 Men den senare modulen är inte tillgänglig i ditt system.
@@ -26,3 +30,26 @@ Men den senare modulen är inte tillgänglig i ditt system.
 12. industries_itsm
 Du försöker installera modulen "industries_itsm" som är beroende av modulen "purchase_price_diff".
 Men den senare modulen är inte tillgänglig i ditt system.
+
+13. industries_lms
+Du försöker installera modulen "industries_lms" som är beroende av modulen "event_waitlist_website".
+Men den senare modulen är inte tillgänglig i ditt system.
+-- missing for Odoo 18.
+
+14. industry_lawyer_vrtl
+Du försöker installera modulen "industry_lawyer_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+15. industry_real_estate_vrtl = OK!
+16. l10n_se_account = OK!
+17. l10n_se_payroll
+
+jakob@odooutv17:~$ locate bt_ajax_upload_file_common
+/usr/share/odooext-banastech/bt_ajax_upload_file_common
+
+https://apps.odoo.com/apps/modules/14.0/bt_stock_lot_expiry
+
+Finns inte för Odoo 18.
+https://github.com/Dorstol/odoo-docker/tree/main/addons
+
+
