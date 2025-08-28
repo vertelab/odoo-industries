@@ -35,6 +35,11 @@
     https://github.com/vertelab/odoo-website
     https://github.com/vertelab/odoo-hr
     
+    OCA
+    base_user_role
+    https://github.com/OCA/server-backend
+    https://github.com/OCA/knowledge
+    
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
@@ -49,6 +54,10 @@
         'website_event_portal',
         'event_elearning',
         'event_hr',
+        'event_elearning_td',
+        'base_user_role',
+        'document_knowledge',
+        'document_page_access_group',
     ],
     'data': [
         #'data/data.xml'
