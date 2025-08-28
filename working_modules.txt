@@ -52,4 +52,20 @@ https://apps.odoo.com/apps/modules/14.0/bt_stock_lot_expiry
 Finns inte för Odoo 18.
 https://github.com/Dorstol/odoo-docker/tree/main/addons
 
+18. larplattform_lms
+Du försöker installera modulen "larplattform_lms" som är beroende av modulen "bt_ajax_upload_file_common".
+Men den senare modulen är inte tillgänglig i ditt system.
 
+19. non_profit_organization_vrtl = OK!
+20. photography_vrtl = OK!
+21. software_reseller_vrtl
+Du försöker installera modulen "software_reseller_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+22. sports_club_vrtl
+Du försöker installera modulen "sports_club_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.
+
+23. surveyor_vrtl
+Du försöker installera modulen "surveyor_vrtl" som är beroende av modulen "planning_ce".
+Men den senare modulen är inte tillgänglig i ditt system.

@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    Odoo SA, Open Source Management Solution, third party addon
-#    Copyright (C) 2023- Vertel AB (<https://vertel.se>).
+#    Copyright (C) 2024- Vertel AB (<https://vertel.se>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -20,43 +20,47 @@
 ##############################################################################
 
 {
-    'name': 'Industry-vrtl: Nonprofit Organization, Vertel',
-    'version': '1.0.0',
-    # Version ledger: 14.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
-    'summary': 'Nonprofit Organization, Vertel',
+    'name': 'Industry-vrtl: LMS, Vertel',
+    'version': '1.0',
+    # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
+    'summary': 'Learning Management System, Vertel',
     'category': 'Industries',
     'description': """
-    Nonprofit Organization, Vertel Style
     
-    Vertel made a collection of Community Edition modules inspired of Odoo Industries series.
+    Dependencies origin från Vertel.
+    odoo-event
+    odoo-hr
+    odoo-website
+    https://github.com/vertelab/odoo-event
+    https://github.com/vertelab/odoo-website
+    https://github.com/vertelab/odoo-hr
+    
+    OCA
+    base_user_role
+    https://github.com/OCA/server-backend
+    https://github.com/OCA/knowledge
     
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industry-vrtl/non_profit_organization_vrtl',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industries_lms',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
-        'mass_mailing',
-        # ~ 'knowledge',
-        'sale_subscription',
-        'crm',
-        'website',
-        'calendar',
-        'contacts',
-        'mail',
-        'website_event',
-        'website_sale',
-        'sale_management',
-        'account',
-        'account_accountant_ce',
-        ],
+        'event_waitlist_website',
+        'website_event_portal',
+        'event_elearning',
+        'event_hr',
+        'event_elearning_td',
+        'base_user_role',
+        'document_knowledge',
+        'document_page_access_group',
+    ],
     'data': [
-#        'data/data.xml'
+        #'data/data.xml'
     ],
     'installable': 'True',
 }
-
