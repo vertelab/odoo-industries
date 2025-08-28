@@ -44,8 +44,8 @@
     ],
     'data': [
         #'data/data.xml'
-        'data/slide_slide_demo.xml'
-        'data/slide_channel_demo.xml'
+        'data/slide_slide_demo.xml',
+        'data/slide_channel_demo.xml',
     ],
     'installable': 'True',
 }
