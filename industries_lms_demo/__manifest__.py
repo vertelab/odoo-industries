@@ -20,47 +20,32 @@
 ##############################################################################
 
 {
-    'name': 'Industry-vrtl: LMS, Vertel',
+    'name': 'Industry-vrtl-demo: LMS, Vertel',
     'version': '1.0',
     # Version ledger: XX.0 = Odoo version. 1 = Major. Non regressionable code. 2 = Minor. New features that are regressionable. 3 = Bug fixes
-    'summary': 'Learning Management System, Vertel',
+    'summary': 'Learning Management System, Vertel - DEMO',
     'category': 'Industries',
     'description': """
     
-    Dependencies origin från Vertel.
-    odoo-event
-    odoo-hr
-    odoo-website
-    https://github.com/vertelab/odoo-event
-    https://github.com/vertelab/odoo-website
-    https://github.com/vertelab/odoo-hr
-    
-    OCA
-    base_user_role
-    https://github.com/OCA/server-backend
-    https://github.com/OCA/knowledge
+    This module is depending on industries_lms
+    and adding some demo data for this parent module!
     
     """,
     #'sequence': '1'
     'author': 'Vertel AB',
-    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industries_lms',
+    'website': 'https://vertel.se/apps/odoo-industry-vrtl/industries_lms_demo',
     'images': ['static/description/banner.png'], # 560x280 px.
     'license': 'AGPL-3',
     'contributor': '',
     'maintainer': 'Vertel AB',
-    'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
+    'repository': 'https://github.com/vertelab/odoo-industry-vrtl_demo',
     'depends': [
-        'event_waitlist_website',
-        'website_event_portal',
-        'event_elearning',
-        'event_hr',
-        'event_elearning_td',
-        'base_user_role',
-        'document_knowledge',
-        'document_page_access_group',
+        'industries_lms'
     ],
     'data': [
         #'data/data.xml'
+        'data/slide_slide_demo.xml'
+        'data/slide_channel_demo.xml'
     ],
     'installable': 'True',
 }
