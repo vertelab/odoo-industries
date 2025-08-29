@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+    <record id="slides_tour" model="web_tour.tour" noupdate="1">
+      <field name="name">slides_tour</field>
+      <field name="url" />
+    </record>
+  </data>
+</odoo>
