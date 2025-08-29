@@ -40,12 +40,29 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industry-vrtl_demo',
     'depends': [
-        'industries_lms'
+        'website_slides',
+        'industries_lms',
     ],
+    
     'data': [
-        #'data/data.xml'
-        'data/slide_slide_demo.xml',
-        'data/slide_channel_demo.xml',
+        'data/gamification_data.xml',
+        'data/mail_activity_type_data.xml',
+        'data/mail_message_subtype_data.xml',
+        'data/website_data.xml',
+        'data/slide_data.xml',
+        'data/mail_template_data.xml',
+        'data/mail_templates.xml',
+        # ~ 'data/slides_tour.xml',
     ],
-    'installable': 'True',
+
+    'demo': [
+        'data/res_users_demo.xml',
+        'data/slide_channel_tag_demo.xml',
+        'data/slide_channel_demo.xml',
+        'data/slide_slide_demo.xml',
+        'data/slide_user_demo.xml',
+        'data/slide_user_gamification_demo.xml',
+
+    ],
+    'installable': True,
 }
