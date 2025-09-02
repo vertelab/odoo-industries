@@ -53,16 +53,22 @@
         'data/mail_template_data.xml',
         'data/mail_templates.xml',
         # ~ 'data/slides_tour.xml',
-    ],
-
-    'demo': [
         'data/res_users_demo.xml',
         'data/slide_channel_tag_demo.xml',
         'data/slide_channel_demo.xml',
         'data/slide_slide_demo.xml',
-        'data/slide_user_demo.xml',
-        'data/slide_user_gamification_demo.xml',
-
+        #'data/slide_user_demo.xml',
+        #'data/slide_user_gamification_demo.xml',
     ],
+
+    # ~ 'demo': [
+        # ~ 'data/res_users_demo.xml',
+        # ~ 'data/slide_channel_tag_demo.xml',
+        # ~ 'data/slide_channel_demo.xml',
+        # ~ 'data/slide_slide_demo.xml',
+        # ~ 'data/slide_user_demo.xml',
+        # ~ 'data/slide_user_gamification_demo.xml',
+
+    # ~ ],
     'installable': True,
 }

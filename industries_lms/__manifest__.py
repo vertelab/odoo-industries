@@ -52,9 +52,9 @@
     'depends': [
         'event_waitlist_website',
         'website_event_portal',
-        'event_elearning',
+        'event_lms',
         'event_hr',
-        'event_elearning_td',
+        'event_lms_td',
         'base_user_role',
         'document_knowledge',
         'document_page_access_group',

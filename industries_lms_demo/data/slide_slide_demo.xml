@@ -9,13 +9,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/channel-training-default.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_0_gard_0" />
+      <field name="channel_id" ref="slide_channel_demo_0_gard_0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
       <field name="public_views">10</field>
       <field name="completion_time">2.5</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_tools')), (4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_tools')), (4, ref('slide_tag_demo_howto'))]" />
       <field name="description">A summary of know-how: how and what. All the basics for this course about gardening.</field>
     </record>
     <!--RESOURCE-->
@@ -30,13 +30,13 @@
       <field name="sequence">2</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_gardening_1.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_0_gard_0" />
+      <field name="channel_id" ref="slide_channel_demo_0_gard_0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">5</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful')), (4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful')), (4, ref('slide_tag_demo_theory'))]" />
       <field name="description">Interesting information about home gardening. Keep it close!</field>
     </record>
     <record id="slide_slide_demo_0_2" model="slide.slide">
@@ -44,13 +44,13 @@
       <field name="sequence">3</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_gardening_2.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_0_gard_0" />
+      <field name="channel_id" ref="slide_channel_demo_0_gard_0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">2</field>
       <field name="completion_time">2</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful')), (4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful')), (4, ref('slide_tag_demo_theory'))]" />
       <field name="description">You won't believe those facts about carrots.</field>
     </record>
     <record id="slide_slide_demo_0_3" model="slide.slide">
@@ -59,13 +59,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_l0JZ25VvbwE.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_0_gard_0" />
+      <field name="channel_id" ref="slide_channel_demo_0_gard_0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">Here is How to get the Sweetest Strawberries you ever tasted!</field>
     </record>
     <record id="slide_slide_demo_0_4" model="slide.slide">
@@ -73,7 +73,7 @@
       <field name="sequence">5</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_owl.jpg" />
       <field name="slide_category">quiz</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_0_gard_0" />
+      <field name="channel_id" ref="slide_channel_demo_0_gard_0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
@@ -132,13 +132,13 @@
     <record id="slide_category_demo_1_0" model="slide.slide">
       <field name="name">Interesting Facts</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="sequence">0</field>
     </record>
     <record id="slide_category_demo_1_1" model="slide.slide">
       <field name="name">Methods</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="sequence">4</field>
     </record>
     <!--                    Slides                 -->
@@ -147,13 +147,13 @@
       <field name="sequence">1</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_infographic_1.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
       <field name="public_views">5</field>
       <field name="completion_time">0.5</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful'))]" />
       <field name="description">Just some basics Tree Infographic.</field>
     </record>
     <record id="slide_slide_demo_1_1" model="slide.slide">
@@ -161,13 +161,13 @@
       <field name="sequence">2</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_infographic_2.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">5</field>
       <field name="completion_time">1.5</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful'))]" />
       <field name="description">Just some basics Interesting Tree Facts.</field>
     </record>
     <record id="slide_slide_demo_1_2" model="slide.slide">
@@ -175,13 +175,13 @@
       <field name="sequence">3</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_infographic_3.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">10</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful')), (4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful')), (4, ref('slide_tag_demo_theory'))]" />
       <field name="description">Just some basics Energy Efficiency Facts.</field>
     </record>
     <record id="slide_slide_demo_1_2_link_0" model="slide.slide.resource">
@@ -209,13 +209,13 @@
       <field name="url">https://www.youtube.com/watch?v=QYmgrw0PgLU</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_QYmgrw0PgLU.jpg" />
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">Jim and Todd plant a potted tree for a customer of Knecht's Nurseries and Landscaping. Narrated by Leif Knecht, owner.</field>
     </record>
     <record id="slide_slide_demo_1_4" model="slide.slide">
@@ -223,7 +223,7 @@
       <field name="sequence">6</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_img_1.jpg" />
       <field name="slide_category">article</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="html_content" type="html">
         <section class="s_cover parallax bg-black-50 pt16 pb16" data-scroll-background-ratio="0" style="background-image: none;" data-snippet="s_cover">
           <span class="s_parallax_bg oe_img_bg" style="background-image: url('/website_slides/static/src/img/slide_demo_tree_img_1.jpg'); background-position: 50% 0;" />
@@ -271,7 +271,7 @@
       <field name="is_preview" eval="True" />
       <field name="public_views">5</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful'))]" />
       <field name="description">We had a little chat with Harry Potted, sure he had interesting things to say!</field>
     </record>
     <record id="slide_slide_demo_1_4_link_0" model="slide.slide.resource">
@@ -337,13 +337,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/channel-training-default.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">10</field>
       <field name="completion_time">2.5</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">A summary of know-how: how and what.</field>
     </record>
     <record id="slide_slide_demo_1_6" model="slide.slide">
@@ -352,13 +352,13 @@
       <field name="url">https://www.youtube.com/watch?v=l0JZ25VvbwE</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_l0JZ25VvbwE.jpg" />
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_1_gard1" />
+      <field name="channel_id" ref="slide_channel_demo_1_gard1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">Here is How to get the Sweetest Strawberries you ever tasted!</field>
     </record>
     <!-- CHANNEL 2: Trees, Wood and Garden -->
@@ -367,13 +367,13 @@
     <record id="slide_category_demo_2_0" model="slide.slide">
       <field name="name">Trees</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="sequence">0</field>
     </record>
     <record id="slide_category_demo_2_1" model="slide.slide">
       <field name="name">Wood</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="sequence">4</field>
     </record>
     <!--                    Slides                 -->
@@ -384,13 +384,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_img_2.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
       <field name="public_views">0</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="quiz_first_attempt_reward">100</field>
       <field name="quiz_second_attempt_reward">75</field>
       <field name="quiz_third_attempt_reward">50</field>
@@ -468,7 +468,7 @@
       <field name="sequence">2</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_tree_img_3.jpg" />
       <field name="slide_category">article</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="html_content" type="html">
         <section class="s_cover parallax bg-black-50 pt16 pb16" data-scroll-background-ratio="0" style="background-image: none;" data-snippet="s_cover">
           <span class="s_parallax_bg oe_img_bg" style="background-image: url('/website_slides/static/src/img/slide_demo_tree_img_3.jpg'); background-position: 50% 0;" />
@@ -516,7 +516,7 @@
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">2</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_theory'))]" />
       <field name="description">Mighty forest just don't appear in a few weeks. Learn how time made our forests mighty and mysterious.</field>
     </record>
     <record id="slide_slide_demo_2_2" model="slide.slide">
@@ -525,13 +525,13 @@
       <field name="url">https://www.youtube.com/watch?v=ebBez6bcSEc</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_ebBez6bcSEc.jpg" />
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">How to wall decorating by tree planting in hanging plastic bottles.</field>
     </record>
     <!-- Category: Wood -->
@@ -541,13 +541,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/channel-documentation-default.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_2_gard2" />
+      <field name="channel_id" ref="slide_channel_demo_2_gard2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">2</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_cheatsheet'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_cheatsheet'))]" />
       <field name="quiz_first_attempt_reward">100</field>
       <field name="quiz_second_attempt_reward">75</field>
       <field name="quiz_third_attempt_reward">50</field>
@@ -560,7 +560,7 @@
     <record id="slide_category_demo_3_0" model="slide.slide">
       <field name="name">Working with Wood</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_3_furn0" />
+      <field name="channel_id" ref="slide_channel_demo_3_furn0" />
       <field name="sequence">1</field>
     </record>
     <!--                    Slides                 -->
@@ -569,13 +569,13 @@
       <field name="sequence">2</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_wood_infographic_1.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_3_furn0" />
+      <field name="channel_id" ref="slide_channel_demo_3_furn0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
       <field name="public_views">10</field>
       <field name="completion_time">12</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_colorful'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_colorful'))]" />
       <field name="description">Comparing Hardness of Wood Species</field>
     </record>
     <record id="slide_slide_demo_3_1" model="slide.slide">
@@ -584,7 +584,7 @@
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_PYr1rK8pS30.jpg" />
       <field name="url">https://www.youtube.com/watch?v=PYr1rK8pS30</field>
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_3_furn0" />
+      <field name="channel_id" ref="slide_channel_demo_3_furn0" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
@@ -598,13 +598,13 @@
     <record id="slide_category_demo_4_0" model="slide.slide">
       <field name="name">Documents</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="sequence">0</field>
     </record>
     <record id="slide_category_demo_4_1" model="slide.slide">
       <field name="name">Technical Drawings</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="sequence">10</field>
     </record>
     <!--                    Slides                 -->
@@ -613,7 +613,7 @@
       <field name="sequence">1</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_furniture_2.jpg" />
       <field name="slide_category">article</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="html_content" type="html">
         <section class="s_cover parallax bg-black-50 pt16 pb16" data-scroll-background-ratio="0" style="background-image: none;" data-snippet="s_cover">
           <span class="s_parallax_bg oe_img_bg" style="background-image: url('/website_slides/static/src/img/slide_demo_tree_img_3.jpg'); background-position: 50% 0;" />
@@ -661,7 +661,7 @@
       <field name="is_preview" eval="True" />
       <field name="public_views">10</field>
       <field name="completion_time">1</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">Foreword for this documentation: how to use it, main attention points</field>
     </record>
     <record id="slide_slide_demo_4_1" model="slide.slide">
@@ -670,7 +670,7 @@
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_bvSe6r5BpaY.jpg" />
       <field name="url">https://www.youtube.com/watch?v=bvSe6r5BpaY</field>
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=3)" />
       <field name="is_preview" eval="False" />
@@ -684,13 +684,13 @@
       <field name="sequence">11</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_furniture_img.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=4)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">2</field>
       <field name="completion_time">2</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_theory'))]" />
       <field name="description">Technical drawing</field>
     </record>
     <record id="slide_slide_demo_4_11" model="slide.slide">
@@ -698,13 +698,13 @@
       <field name="sequence">12</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_furniture_img_1.jpg" />
       <field name="slide_category">infographic</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=4)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">2</field>
       <field name="completion_time">2</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_theory'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_theory'))]" />
       <field name="description">Technical drawing</field>
     </record>
     <record id="slide_slide_demo_4_12" model="slide.slide">
@@ -713,13 +713,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/channel-documentation-default.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_4_furn1" />
+      <field name="channel_id" ref="slide_channel_demo_4_furn1" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=4)" />
       <field name="is_preview" eval="False" />
       <field name="public_views">0</field>
       <field name="completion_time">3</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_howto'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_howto'))]" />
       <field name="description">GLork</field>
     </record>
     <!-- CHANNEL 5: Basics of Furniture Creation -->
@@ -728,19 +728,19 @@
     <record id="slide_category_demo_5_0" model="slide.slide">
       <field name="name">Tools and Methods</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="sequence">0</field>
     </record>
     <record id="slide_category_demo_5_1" model="slide.slide">
       <field name="name">Hand on!</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="sequence">3</field>
     </record>
     <record id="slide_category_demo_5_2" model="slide.slide">
       <field name="name">Test Yourself</field>
       <field name="is_category" eval="True" />
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="sequence">5</field>
     </record>
     <!--                    Slides                -->
@@ -750,13 +750,13 @@
       <field name="binary_content" type="base64" file="website_slides/static/src/img/presentation.pdf" />
       <field name="image_1920" type="base64" file="website_slides/static/src/img/channel-training-default.jpg" />
       <field name="slide_category">document</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
       <field name="public_views">10</field>
       <field name="completion_time">2.5</field>
-      <field name="tag_ids" eval="[(4, ref('website_slides.slide_tag_demo_tools'))]" />
+      <field name="tag_ids" eval="[(4, ref('slide_tag_demo_tools'))]" />
       <field name="description">Tools you will need to complete this course.</field>
     </record>
     <record id="slide_slide_demo_5_0_link_0" model="slide.slide.resource">
@@ -777,7 +777,7 @@
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_5WMqwTnZ-qs.jpg" />
       <field name="url">https://www.youtube.com/watch?v=5WMqwTnZ-qs</field>
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
@@ -791,7 +791,7 @@
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_thumb_grrXe1QZNzQ.jpg" />
       <field name="url">https://www.youtube.com/watch?v=grrXe1QZNzQ</field>
       <field name="slide_category">video</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="True" />
@@ -804,7 +804,7 @@
       <field name="sequence">6</field>
       <field name="image_1920" type="base64" file="website_slides/static/src/img/slide_demo_owl.jpg" />
       <field name="slide_category">quiz</field>
-      <field name="channel_id" ref="website_slides.slide_channel_demo_5_furn2" />
+      <field name="channel_id" ref="slide_channel_demo_5_furn2" />
       <field name="is_published" eval="True" />
       <field name="date_published" eval="datetime.now() - timedelta(days=8)" />
       <field name="is_preview" eval="False" />
