@@ -36,7 +36,6 @@
 
     
     """,
-    #'sequence': '1'
     'author': 'Vertel AB',
     'website': 'https://vertel.se/apps/odoo-industry-vrtl/l10n_se_account',
     'images': ['static/description/banner.png'], # 560x280 px.
@@ -45,7 +44,7 @@
     'maintainer': 'Vertel AB',
     'repository': 'https://github.com/vertelab/odoo-industry-vrtl',
     'depends': [
-        'account',
+        'l10n_se',
         'l10n_se_extended',
         'l10n_se_mis',
         'l10n_se_tax_report',
@@ -57,10 +56,9 @@
         #'account_payment_order', Waiting for 18 version
         
         ],
-    'data': [
-#        'data/data.xml'
-    ],
+    'data': [],
     'installable': 'True',
+    'post_init_hook': 'try_load_k2',
 }
 ##https://github.com/OCA/bank-statement-import
 ##https://github.com/vertelab/odoo-l10n_se
