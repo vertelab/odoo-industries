@@ -7,9 +7,9 @@
    viewBox="0 0 560 280"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="banner_560x280.svg"
-   inkscape:export-filename="/home/jakobk/Documents/2024-10/odoo16/odoo-industries/industries_lms/static/description/banner.png"
+   inkscape:export-filename="banner.png"
    inkscape:export-xdpi="92.61972"
    inkscape:export-ydpi="92.61972"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -56,17 +56,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="284"
-     inkscape:cy="102"
+     inkscape:cx="224.5"
+     inkscape:cy="102.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1625"
      inkscape:window-height="875"
-     inkscape:window-x="128"
-     inkscape:window-y="76"
+     inkscape:window-x="56"
+     inkscape:window-y="172"
      inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid2236" />
@@ -141,14 +143,9 @@
        y="153.03708"
        id="text2039"><tspan
          sodipodi:role="line"
-         id="tspan2037"
          x="319.77063"
          y="153.03708"
-         style="stroke-width:1px">odoo-industries</tspan><tspan
-         sodipodi:role="line"
-         x="319.77063"
-         y="171.78708"
-         id="tspan2041" /></text>
+         id="tspan2041">odoo-industries-vrtl</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -177,20 +174,7 @@
        width="28.261333"
        height="27.696106"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAolJREFU
-aIHtmr1r1VAYh9/3nJPknHzc3Jub5MRbPzqL2qEOUqhdxIJDJx0cOwiik4vdXZzEQRe7SoX6Rf8F
-HRxdOooI0nayiNJL9X7Fwba0gjU5997eg5xnCkl+b34PCSEJAfhPwN0Fwfk0F+JykVCn0/m4tdVc
-zvPe9vCqlYMBAAjOp441Gm/LBG3bmdjc/HJnOLXKQwAAaoLPlA1yUSudGSYEAIAg2mWDiLR0ZpiQ
-URcYFEZEN4yIbhgR3TAiujEKEfQ9b5Yxdlx1AKM08jx3Fgnx9tYNplsxCCF+lqZL3HXn8jxvra9v
-nG+1fq6WmcEdZ1JK+ZIyNt5qdVbX1j6fAzjCM8Id+8yJsbH33HXnAAAQ0RZutdBrwy7VSjDfaDTe
-UcbGAQBsm51lln8S4IjOSMX3rkVxskgIqe5fT4jlFxxBZRI/9oLKzT837M4YqggC0CiK7lXC8C4i
-Kh2LUZqlUi5zzi8eup9axX9DCAllmj4TrntFdYbgfCpJ0yW2cykdxlBEHNueyLJshRYo8DfCSuVW
-VK8/xILvSgMXCXz/ej2OFwkhRa//AyCilcTxEz8I5svkBiaCiFYcRQ+CMLwNindDi7FTUspXtuNM
-ls0ORIRSGmdSvnY4n1ad4QpxKUnTp5TSTCXft4jgzgUpsxVCqVSdUatWF2pRdB/2fZ4qSx8iOYZB
-cCOK40eI6KhMQESRSfnC9byr6j1+oyxiW+3T9SRZ7Ofg1dBaALD6GbGHefrVDSOiG0ZEN4yIbhgR
-3TAiumFEdMOI6IYR0Q0CANDL8/aoi6iS5702wI7I1+0fb0ZbR41ut7vRbn37AHDw76AZ4bqlPvOP
-kl6v932r2Xzeabc/jbrLQPkFqUNn56+Px9wAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAolJREFU aIHtmr1r1VAYh9/3nJPknHzc3Jub5MRbPzqL2qEOUqhdxIJDJx0cOwiik4vdXZzEQRe7SoX6Rf8F HRxdOooI0nayiNJL9X7Fwba0gjU5997eg5xnCkl+b34PCSEJAfhPwN0Fwfk0F+JykVCn0/m4tdVc zvPe9vCqlYMBAAjOp441Gm/LBG3bmdjc/HJnOLXKQwAAaoLPlA1yUSudGSYEAIAg2mWDiLR0ZpiQ URcYFEZEN4yIbhgR3TAiujEKEfQ9b5Yxdlx1AKM08jx3Fgnx9tYNplsxCCF+lqZL3HXn8jxvra9v nG+1fq6WmcEdZ1JK+ZIyNt5qdVbX1j6fAzjCM8Id+8yJsbH33HXnAAAQ0RZutdBrwy7VSjDfaDTe UcbGAQBsm51lln8S4IjOSMX3rkVxskgIqe5fT4jlFxxBZRI/9oLKzT837M4YqggC0CiK7lXC8C4i Kh2LUZqlUi5zzi8eup9axX9DCAllmj4TrntFdYbgfCpJ0yW2cykdxlBEHNueyLJshRYo8DfCSuVW VK8/xILvSgMXCXz/ej2OFwkhRa//AyCilcTxEz8I5svkBiaCiFYcRQ+CMLwNindDi7FTUspXtuNM ls0ORIRSGmdSvnY4n1ad4QpxKUnTp5TSTCXft4jgzgUpsxVCqVSdUatWF2pRdB/2fZ4qSx8iOYZB cCOK40eI6KhMQESRSfnC9byr6j1+oyxiW+3T9SRZ7Ofg1dBaALD6GbGHefrVDSOiG0ZEN4yIbhgR 3TAiumFEdMOI6IYR0Q0CANDL8/aoi6iS5702wI7I1+0fb0ZbR41ut7vRbn37AHDw76AZ4bqlPvOP kl6v932r2Xzeabc/jbrLQPkFqUNn56+Px9wAAAAASUVORK5CYII= "
        id="image39"
        x="287.73868"
        y="126.80389" />

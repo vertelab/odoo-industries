@@ -8,10 +8,10 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="icon_140x140.svg"
-   inkscape:export-filename="/home/jakobk/Documents/2024-10/odoo16/odoo-industries/industries_lms/static/description/icon.png"
+   inkscape:export-filename="icon.png"
    inkscape:export-xdpi="92"
    inkscape:export-ydpi="92"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -48,17 +48,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="9"
-     inkscape:cy="142.5"
+     inkscape:cx="-50.5"
+     inkscape:cy="142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1551"
      inkscape:window-height="752"
-     inkscape:window-x="35"
+     inkscape:window-x="66"
      inkscape:window-y="92"
      inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata3478">
     <rdf:RDF>
@@ -85,40 +87,22 @@
        style="stroke-width:4.60939169" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8514px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="70.13604"
-       y="86.488388"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.5151px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.831331px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="70.410835"
+       y="91.265305"
        id="text2035"
        inkscape:export-xdpi="92"
        inkscape:export-ydpi="92"><tspan
          sodipodi:role="line"
-         x="70.13604"
-         y="86.488388"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6249px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         id="tspan3051">Industries</tspan><tspan
-         sodipodi:role="line"
-         x="70.13604"
-         y="107.11541"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6249px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1px"
-         id="tspan978">LMS</tspan></text>
+         x="70.410835"
+         y="91.265305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.4715px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.831331px"
+         id="tspan904">Industry LMS</tspan></text>
     <image
        width="34.953552"
        height="34.254482"
        preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAn5JREFU
-aIHtmr2L4kAYh9+Yi0EMCGKRQtQtbMRgkUYCMY0YOMHqUlha2ORqz1KwFwsRuzSSg+RQsLXYwz2x
-1MO1E0nnH2DjHha5SthdjsWMX8MxTxWSvG9+T2aKmRCA/wTqeCDLslwoFAqnFG02m41lWdZ+v99f
-LxoCkiRJrkfa7Xb73rlf4wMAUBRF8VqIUnNNfAAAfr/f77UQpeaa+O4d4FIQEdwgIrhBRHCDiODG
-zUUoiqJUVVWj0WgUtUc4HA6rqqoGg8HgmwuNRqPhddG4Wq1WXgNwHMeNRqOR67ruy8vLH0EQBK89
-RFEUHcdxXNd1l8vl8nj+ZiOSTqfT8/l8XiqVSgAALMv6T902HKlUKpXZbDZLJBIJAABBEIRYLBYD
-uJGIpmna09PTr2QymXx9nuM47pR6mqbpXq/XMwzDeL9YPfb4dLm4/w7QbDabtVrtG8MwSM/ieZ63
-LMvK5XK5j+67mkgoFAqZpvm9WCx+Ru0hSZJkmqZ5nEofcZWplclkMovF4vc5Erqu64+Pjz9PkQC4
-gki5XC5Pp9Ppw8PDSQHewzAMYxiG0e12uyzLnrx5u9jUYhiGabVaLV3Xv9I0jfSC4vF4fDAYDERR
-FL3WXkQkEolEhsPhUJZlGbVHPp/P9/v9Ps/zPEr92VMrm81mn5+fV+dI1Ov1+ng8HqNKAJwxIhRF
-UdVqtdrpdDosy7IoPQKBQMC27R+apn1BzfEGlCUKLqRSqRQAWf3iBxHBDSKCG0QEN4gIbhAR3CAi
-uEFEcIOI4IYPAOBwOBzuHQSVY3YfAMBkMpncNw4a2+12u16v1wCv/g5SFEXx+pn/nux2u51t27bj
-OM69s1yUv18+xgU+gci4AAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAxCAYAAACYq/ofAAAABHNCSVQICAgIfAhkiAAAAn5JREFU aIHtmr2L4kAYh9+Yi0EMCGKRQtQtbMRgkUYCMY0YOMHqUlha2ORqz1KwFwsRuzSSg+RQsLXYwz2x 1MO1E0nnH2DjHha5SthdjsWMX8MxTxWSvG9+T2aKmRCA/wTqeCDLslwoFAqnFG02m41lWdZ+v99f LxoCkiRJrkfa7Xb73rlf4wMAUBRF8VqIUnNNfAAAfr/f77UQpeaa+O4d4FIQEdwgIrhBRHCDiODG zUUoiqJUVVWj0WgUtUc4HA6rqqoGg8HgmwuNRqPhddG4Wq1WXgNwHMeNRqOR67ruy8vLH0EQBK89 RFEUHcdxXNd1l8vl8nj+ZiOSTqfT8/l8XiqVSgAALMv6T902HKlUKpXZbDZLJBIJAABBEIRYLBYD uJGIpmna09PTr2QymXx9nuM47pR6mqbpXq/XMwzDeL9YPfb4dLm4/w7QbDabtVrtG8MwSM/ieZ63 LMvK5XK5j+67mkgoFAqZpvm9WCx+Ru0hSZJkmqZ5nEofcZWplclkMovF4vc5Erqu64+Pjz9PkQC4 gki5XC5Pp9Ppw8PDSQHewzAMYxiG0e12uyzLnrx5u9jUYhiGabVaLV3Xv9I0jfSC4vF4fDAYDERR FL3WXkQkEolEhsPhUJZlGbVHPp/P9/v9Ps/zPEr92VMrm81mn5+fV+dI1Ov1+ng8HqNKAJwxIhRF UdVqtdrpdDosy7IoPQKBQMC27R+apn1BzfEGlCUKLqRSqRQAWf3iBxHBDSKCG0QEN4gIbhAR3CAi uEFEcIOI4IYPAOBwOBzuHQSVY3YfAMBkMpncNw4a2+12u16v1wCv/g5SFEXx+pn/nux2u51t27bj OM69s1yUv18+xgU+gci4AAAAAElFTkSuQmCC "
        id="image23"
        x="8.4266052"
        y="8.166666" />

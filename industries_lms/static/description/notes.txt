@@ -1,4 +1,4 @@
-odoo-industries / industries_lms
+odoo-industry-vrtl / industries_lms
 2024-10-18
 
 Be aware of these!
