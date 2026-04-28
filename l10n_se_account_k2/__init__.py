@@ -1,5 +1,3 @@
-from . import models
-
 def try_load_k2(env):
     company_ids = env["res.company"].search([])
     chart_template = "extended_se_K2"
